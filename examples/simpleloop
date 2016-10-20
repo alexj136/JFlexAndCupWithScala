@@ -1,4 +1,3 @@
-[
     server $f : a .
     if a > 0 then
         send $print : a - 1 .
@@ -12,4 +11,3 @@
 
     send $f : 10 .
     end
-]
